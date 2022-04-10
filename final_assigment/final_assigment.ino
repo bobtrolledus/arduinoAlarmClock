@@ -4,11 +4,11 @@
 
 //Creates vars for all outputs
 Servo myServo;
-int buttonPin = 2;
 int buzzerPin = 11;
 int ledPin = 12;
 
 //Creates vars for all inputs
+int buttonPin = 2;
 int potPin = 0;
 
 //Creates vars for all logic
